@@ -1,0 +1,50 @@
+_repo: The-Antiquity-of-Man_6335
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 6335/6335-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Lyell, Charles, Sir
+    birthdate: 1797
+    deathdate: 1875
+    gutenberg_agent_id: '1297'
+    url: http://www.gutenberg.org/2009/agents/1297
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lyell
+description: "Geological Evidences of the Antiquity of Man is a book written by British\
+  \ geologist, Charles Lyell in 1863. The first three editions appeared in February,\
+  \ April, and November 1863, respectively. A much-revised fourth edition appeared\
+  \ in 1873. Antiquity of Man, as it was known to contemporary readers, dealt with\
+  \ three scientific issues that had become prominent in the preceding decade: the\
+  \ age of the human race, the existence of ice ages, and Charles Darwin's theory\
+  \ of evolution by natural selection. Lyell used the book to reverse or modify his\
+  \ own long-held positions on all three issues. The book drew sharp criticism from\
+  \ two of Lyell's younger colleagues – paleontologist Hugh Falconer and archaeologist\
+  \ John Lubbock – who felt that Lyell had used their work too freely and acknowledged\
+  \ it too sparingly. It sold well, however, and (along with Lubbock's 1865 book Prehistoric\
+  \ Times) helped to establish the new science of prehistoric archaeology in Great\
+  \ Britain.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6335'
+  wikidata: Q4186843
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glacial epoch'
+- !lcsh 'Human evolution'
+- !lcsh 'Human beings -- Origin'
+- !lcc 'QH'
+- !lcsh 'Evolution (Biology)'
+- GITenberg
+title: The Antiquity of Man
+url: http://www.gutenberg.org/ebooks/6335
+wikipedia:
+- https://en.wikipedia.org/wiki/Geological_Evidences_of_the_Antiquity_of_Man
+- https://id.wikipedia.org/wiki/Geological_Evidences_of_the_Antiquity_of_Man
+- https://pt.wikipedia.org/wiki/Geological_Evidences_of_the_Antiquity_of_Man
