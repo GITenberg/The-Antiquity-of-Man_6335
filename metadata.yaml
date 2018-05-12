@@ -1,10 +1,8 @@
 _repo: The-Antiquity-of-Man_6335
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 6335/6335-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lyell, Charles, Sir
@@ -26,6 +24,8 @@ description: "Geological Evidences of the Antiquity of Man is a book written by 
   \ it too sparingly. It sold well, however, and (along with Lubbock's 1865 book Prehistoric\
   \ Times) helped to establish the new science of prehistoric archaeology in Great\
   \ Britain.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6335#The-Antiquity-of-Man
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
